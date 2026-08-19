@@ -1,0 +1,35 @@
+/* 1. Regular */
+@font-face {
+    font-family: 'Cali';
+    src: url('Font2Style1.ttf') format('truetype');
+    font-weight: 400; /* Normal Weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 2. Italic */
+@font-face {
+    font-family: 'Cali';
+    src: url('Font2Style3.ttf') format('truetype');
+    font-weight: 400; /* Normal Weight */
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 3. Bold */
+@font-face {
+    font-family: 'Cali';
+    src: url('Font2Style2.ttf') format('truetype');
+    font-weight: 700; /* Bold Weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 4. Bold Italic (If you have it) */
+@font-face {
+    font-family: 'Cali';
+    src: url('Font2Style4.ttf') format('truetype');
+    font-weight: 700; /* Bold Weight */
+    font-style: italic;
+    font-display: swap;
+}
